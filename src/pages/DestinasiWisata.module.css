@@ -1,0 +1,114 @@
+.page {
+  min-height: 100vh;
+}
+
+/* Empty State */
+.emptyState {
+  text-align: center;
+  padding: var(--space-3xl) var(--space-md);
+  color: var(--dark-chocolate-light);
+  font-style: italic;
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+}
+
+/* Modal Content */
+.modalContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.modalImageWrapper {
+  width: 100%;
+  height: 380px;
+  overflow: hidden;
+  background: #2a1810;
+}
+
+.modalImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.modalBody {
+  padding: 1.75rem 2.25rem 2.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  background: var(--modal-body-bg);
+}
+
+.modalTitle {
+  font-family: var(--font-heading);
+  font-size: 2.1rem;
+  color: var(--dark-chocolate);
+  margin: 0;
+  line-height: 1.25;
+}
+
+.modalLocation {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--burnt-orange);
+  font-weight: 700;
+  font-size: 0.98rem;
+  margin-bottom: 0.25rem;
+}
+
+.locationIcon {
+  color: var(--burnt-orange);
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+.modalDescription {
+  color: var(--dark-chocolate);
+  line-height: 1.85;
+  font-size: 1.02rem;
+  margin: 0;
+}
+
+.modalTips {
+  margin-top: var(--space-md);
+  padding: 1.25rem 1.5rem;
+  background-color: #fdfaf3;
+  border-left: 4px solid var(--mustard-gold);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  box-shadow: 0 2px 8px rgba(62, 39, 35, 0.05);
+}
+
+.modalTips h4 {
+  font-family: var(--font-heading);
+  color: var(--mustard-gold-dark);
+  margin-bottom: 0.4rem;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.modalTips p {
+  color: var(--dark-chocolate);
+  font-size: 0.95rem;
+  margin-bottom: 0;
+  line-height: 1.7;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .modalImageWrapper {
+    height: 240px;
+  }
+  .modalBody {
+    padding: 1.25rem 1.25rem 1.75rem;
+  }
+  .modalTitle {
+    font-size: 1.6rem;
+  }
+  .modalTips {
+    padding: 1rem;
+  }
+}

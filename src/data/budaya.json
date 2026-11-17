@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "nama": "Tari Kecak",
+    "kategori": "Tarian",
+    "asal": "Bali",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Tari Kecak adalah seni drama tari khas Bali yang dibawakan oleh puluhan hingga ratusan penari pria bertelanjang dada mengenakan kain bermotif poleng. Mereka duduk melingkar dan menyerukan irama vokal ritmis 'cak-cak-cak ke-cak' sembari mengangkat kedua tangan. Pementasan ini mengangkat lakon epos Ramayana tatkala bala tentara kera Hanoman membantu Rama menumpas angkara murka Rahwana.",
+    "gambar": "/images/budaya/tari-kecak.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "Tari Saman",
+    "kategori": "Tarian",
+    "asal": "Aceh (Suku Gayo)",
+    "pulau": "Sumatera",
+    "deskripsi": "Tari Saman, dijuluki 'Tarian Seribu Tangan', adalah warisan luhur suku Gayo yang ditetapkan UNESCO sebagai Warisan Budaya Takbenda Dunia sejak 2011. Tarian ini menampilkan deretan penari yang berlutut rapat dengan harmoni gerakan tepukan dada, paha, dan lantai yang bergerak dalam kecepatan tinggi penuh kedisiplinan dan syair-syair pujian keagamaan.",
+    "gambar": "/images/budaya/tari-saman.jpg"
+  },
+  {
+    "id": 3,
+    "nama": "Batik Nusantara",
+    "kategori": "Kerajinan",
+    "asal": "Jawa (Yogyakarta, Surakarta, Pekalongan)",
+    "pulau": "Jawa",
+    "deskripsi": "Batik adalah mahakarya kain bergambar yang dibuat menggunakan perintang lilin malam dengan alat canting (tulis) atau tembaga (cap). Setiap torehan canting sarat akan filosofi adiluhung, seperti motif Parang Rusak yang melambangkan pantang menyerah, motif Truntum yang berarti cinta bersemi kembali, dan Kawung yang menyimbolkan kesucian budi pekerti.",
+    "gambar": "/images/budaya/batik.jpg"
+  },
+  {
+    "id": 4,
+    "nama": "Wayang Kulit Purwa",
+    "kategori": "Kerajinan",
+    "asal": "Jawa Tengah & DI Yogyakarta",
+    "pulau": "Jawa",
+    "deskripsi": "Seni pertunjukan bayangan wayang berbahan kulit kerbau tatahan halus yang diakui UNESCO sebagai Masterpiece of Oral and Intangible Heritage of Humanity sejak 2003. Dipimpin oleh seorang Ki Dalang yang bertutur mengiringi gamelan semalam suntuk membawakan epos Mahābhārata dan Ramayana yang kaya tuntunan etika hidup.",
+    "gambar": "/images/budaya/wayang-kulit.jpg"
+  },
+  {
+    "id": 5,
+    "nama": "Gamelan Jawa & Bali",
+    "kategori": "Alat Musik",
+    "asal": "Jawa & Bali",
+    "pulau": "Jawa",
+    "deskripsi": "Ansambel musik tradisional tertua yang tersusun dari ratusan bilah perunggu, gong ageng, kenong, saron, bonang, kendang, hingga gambang. Gamelan Jawa bernuansa meditatif yang merefleksikan keselarasan jiwa dan alam, sementara Gamelan Bali berkarakter Gong Kebyar yang rancak, bergelora, dan penuh kedinamisan.",
+    "gambar": "/images/budaya/gamelan.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Upacara Ngaben",
+    "kategori": "Upacara Adat",
+    "asal": "Bali",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Ritual pembakaran jenazah (Pitra Yadnya) dalam tradisi Hindu Dharma Bali guna mengembalikan unsur Panca Maha Butha jasad ke alam semesta serta mengantarkan atma (roh leluhur) menuju alam spiritual Swah Loka. Prosesi diawali pengarakan bade dan wadah lembu megah diiringi dentuman musik gamelan baleganjur.",
+    "gambar": "/images/budaya/upacara-ngaben.jpg"
+  },
+  {
+    "id": 7,
+    "nama": "Kain Tenun Ulos",
+    "kategori": "Pakaian Adat",
+    "asal": "Sumatera Utara (Suku Batak)",
+    "pulau": "Sumatera",
+    "deskripsi": "Kain tenun sakral masyarakat Batak yang dibuat dengan alat tenun gedokan tradisional. Ulos bukan sekadar busana, melainkan simbol curahan kasih sayang, kehangatan jiwa, dan restu kehidupan ('mangulosi') dalam siklus kelahiran, pernikahan, upacara adat, hingga kedukaan.",
+    "gambar": "/images/budaya/kain-ulos.jpg"
+  },
+  {
+    "id": 8,
+    "nama": "Alat Musik Sasando",
+    "kategori": "Alat Musik",
+    "asal": "Nusa Tenggara Timur (Pulau Rote)",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Alat musik dawai petik unik dari Pulau Rote yang memadukan tabung bambu melingkar dengan wadah resonator dari anyaman daun pohon lontar (haik). Menghasilkan dawai nada polifonik merdu dan syahdu menyerupai perpaduan harpa dan gitar akustik.",
+    "gambar": "/images/budaya/sasando.jpg"
+  },
+  {
+    "id": 9,
+    "nama": "Tari Pendet",
+    "kategori": "Tarian",
+    "asal": "Bali",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Tari pemujaan sakral pura yang bertransformasi menjadi tarian penyambutan tamu kehormatan. Para penari wanita berbusana prada emas membawa bokor perak berisi taburan kelopak bunga melati, kamboja, dan mawar harum yang ditaburkan di akhir tarian dengan lirikan mata seledet khas Bali.",
+    "gambar": "/images/budaya/tari-pendet.jpg"
+  },
+  {
+    "id": 10,
+    "nama": "Tenun Ikat Sumba",
+    "kategori": "Kerajinan",
+    "asal": "Nusa Tenggara Timur (Sumba)",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Tenun ikat mahakarya nusantara yang diwarnai sepenuhnya dari akar mengkudu alami dan lumpur indigo biru. Setiap motif sarat simbol kosmologis suku Marapu, mulai dari kuda sumba (kejantanan), buaya (keagungan bangsawan), hingga pohon tengkorak Andung.",
+    "gambar": "/images/budaya/tenun-sumba.jpg"
+  },
+  {
+    "id": 11,
+    "nama": "Pakaian Adat Baju Bodo",
+    "kategori": "Pakaian Adat",
+    "asal": "Sulawesi Selatan (Suku Bugis-Makassar)",
+    "pulau": "Sulawesi",
+    "deskripsi": "Salah satu busana tertua di dunia yang terbuat dari serat nanas atau kain kasa tipis berwarna jingga cerah, merah darah, atau ungu muda. Dipadukan dengan sarung sutra Mandar atau Bugis serta hiasan perhiasan kepingan emas kote-kote yang gemerlap.",
+    "gambar": "/images/budaya/baju-bodo.jpg"
+  },
+  {
+    "id": 12,
+    "nama": "Upacara Yadnya Kasada",
+    "kategori": "Upacara Adat",
+    "asal": "Jawa Timur (Suku Tengger)",
+    "pulau": "Jawa",
+    "deskripsi": "Upacara tahunan masyarakat suku Tengger di lereng Bromo pada malam bulan purnama ke-12 penanggalan Saka. Warga beriringan menuju kawah Bromo untuk melarungkan sesaji hasil bumi, ternak, dan bunga sebagai wujud bakti leluhur Roro Anteng dan Joko Seger.",
+    "gambar": "/images/budaya/upacara-kasada.jpg"
+  },
+  {
+    "id": 13,
+    "nama": "Tari Piring",
+    "kategori": "Tarian",
+    "asal": "Sumatera Barat (Minangkabau)",
+    "pulau": "Sumatera",
+    "deskripsi": "Tarian tradisional Minangkabau di mana para penari mengayunkan piring porselen di kedua telapak tangannya dengan gerakan gesit, ritmis, dan akrobatik tanpa pernah terjatuh. Pada puncak tarian, para penari menari tanpa alas kaki di atas pecahan kaca beling tajam.",
+    "gambar": "/images/budaya/tari-piring.jpg"
+  },
+  {
+    "id": 14,
+    "nama": "Alat Musik Angklung",
+    "kategori": "Alat Musik",
+    "asal": "Jawa Barat (Suku Sunda)",
+    "pulau": "Jawa",
+    "deskripsi": "Instrumen musik bambu bernada ganda asal tatar Sunda yang digetarkan sehingga menghasilkan denting nada yang harmonis. Ditetapkan UNESCO sebagai Warisan Budaya Takbenda Dunia pada 2010 dan menjadi simbol kebersamaan gotong royong warga.",
+    "gambar": "/images/budaya/angklung.jpg"
+  },
+  {
+    "id": 15,
+    "nama": "Reog Ponorogo",
+    "kategori": "Tarian",
+    "asal": "Jawa Timur (Ponorogo)",
+    "pulau": "Jawa",
+    "deskripsi": "Seni pertunjukan akrobatik kolosal menampilkan sosok Singa Barong — topeng kepala harimau raksasa berhiaskan ratusan bulu merak merak setinggi 2 meter dengan bobot hingga 50 kg yang diangkat hanya menggunakan kekuatan gigi sang penari (Warok).",
+    "gambar": "/images/budaya/reog-ponorogo.jpg"
+  },
+  {
+    "id": 16,
+    "nama": "Tari Jaipong",
+    "kategori": "Tarian",
+    "asal": "Jawa Barat (Karawang & Bandung)",
+    "pulau": "Jawa",
+    "deskripsi": "Tarian pergaulan Sunda karya koreografer Gugum Gumbira yang memadukan unsur ketuk tilu, wayang golek, dan seni bela diri pencak silat. Memiliki ciri khas gerakan pinggul geol, gitek, dan goyang yang dinamis diiringi kendang rampak yang menghentak.",
+    "gambar": "/images/budaya/tari-jaipong.jpg"
+  },
+  {
+    "id": 17,
+    "nama": "Kain Songket Palembang",
+    "kategori": "Kerajinan",
+    "asal": "Sumatera Selatan (Palembang)",
+    "pulau": "Sumatera",
+    "deskripsi": "Dijuluki 'Ratu Kain Nusantara', Songket Palembang ditenun dari sutra halus yang disulam menggunakan benang emas murni. Dahulu kain kemewahan ini hanya boleh dikenakan oleh keluarga kerajaan Kedatuan Sriwijaya dan Kesultanan Palembang Darussalam.",
+    "gambar": "/images/budaya/songket-palembang.jpg"
+  },
+  {
+    "id": 18,
+    "nama": "Tas Anyam Noken",
+    "kategori": "Kerajinan",
+    "asal": "Papua",
+    "pulau": "Papua & Maluku",
+    "deskripsi": "Tas rajut tradisional khas masyarakat Papua yang terbuat dari serat kulit kayu pohon melinjo (ganemo) atau anggrek hutan. Noken dikenakan dengan cara disangkutkan di dahi kepala untuk membawa hasil kebun, kayu bakar, maupun anak kecil. Diakui UNESCO sejak 2012.",
+    "gambar": "/images/budaya/noken-papua.jpg"
+  }
+]

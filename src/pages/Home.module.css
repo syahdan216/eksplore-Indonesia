@@ -1,0 +1,211 @@
+/* ===== HOME PAGE ===== */
+
+.homePage {
+  overflow-x: hidden;
+}
+
+/* ===== EXPLORE / CATEGORY SECTION ===== */
+.exploreSection {
+  background-color: var(--warm-cream);
+}
+
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-xl);
+  margin-top: var(--space-lg);
+}
+
+.categoryCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: var(--card-bg);
+  border-radius: var(--radius-md);
+  padding: var(--space-2xl) var(--space-xl);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-normal);
+  text-decoration: none;
+  color: var(--dark-chocolate);
+  border: 1px solid var(--card-border);
+}
+
+.categoryCard:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--mustard-gold);
+  color: var(--dark-chocolate);
+}
+
+.categoryIconWrapper {
+  width: 80px;
+  height: 80px;
+  border-radius: var(--radius-full);
+  background: linear-gradient(135deg, var(--mustard-gold-light), var(--mustard-gold));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: var(--space-lg);
+  transition: transform var(--transition-normal);
+}
+
+.categoryCard:hover .categoryIconWrapper {
+  transform: scale(1.08);
+}
+
+.categoryIcon {
+  font-size: 2rem;
+  color: var(--dark-chocolate);
+}
+
+.categoryTitle {
+  font-family: var(--font-heading);
+  font-size: 1.4rem;
+  margin-bottom: var(--space-sm);
+}
+
+.categoryDesc {
+  color: var(--dark-chocolate-light);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  margin-bottom: var(--space-lg);
+  flex: 1;
+}
+
+.categoryLink {
+  font-weight: 700;
+  color: var(--mustard-gold-dark);
+  font-size: 0.95rem;
+  transition: color var(--transition-fast);
+}
+
+.categoryCard:hover .categoryLink {
+  color: var(--burnt-orange);
+}
+
+/* ===== TAHUKAH KAMU / FAKTA SECTION ===== */
+.faktaSection {
+  background-color: var(--section-alt-bg);
+}
+
+.faktaCard {
+  max-width: 680px;
+  margin: 0 auto;
+  text-align: center;
+  background: var(--warm-cream);
+  border-radius: var(--radius-md);
+  padding: var(--space-2xl) var(--space-xl);
+  box-shadow: var(--shadow-sm);
+  border: 2px dashed var(--mustard-gold-light);
+  position: relative;
+}
+
+.faktaIconWrapper {
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-full);
+  background: linear-gradient(135deg, #fef3d8, var(--mustard-gold-light));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-lg);
+}
+
+.faktaIcon {
+  font-size: 1.6rem;
+  color: var(--mustard-gold-dark);
+}
+
+.faktaText {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  font-style: italic;
+  line-height: 1.8;
+  color: var(--dark-chocolate);
+  margin-bottom: var(--space-xl);
+}
+
+.faktaButton {
+  margin: 0 auto;
+}
+
+/* ===== CTA PETA SECTION ===== */
+.ctaSection {
+  background-color: var(--olive-green);
+  position: relative;
+  overflow: hidden;
+}
+
+.ctaSection::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  pointer-events: none;
+}
+
+.ctaContent {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.ctaIcon {
+  font-size: 3rem;
+  color: var(--mustard-gold-light);
+  margin-bottom: var(--space-lg);
+}
+
+.ctaTitle {
+  font-family: var(--font-heading);
+  color: var(--warm-cream);
+  font-size: 2.2rem;
+  margin-bottom: var(--space-md);
+}
+
+.ctaText {
+  color: rgba(247, 244, 235, 0.85);
+  font-size: 1.05rem;
+  line-height: 1.8;
+  margin-bottom: var(--space-xl);
+}
+
+.ctaButton {
+  font-size: 1rem;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 1024px) {
+  .categoryGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .categoryGrid {
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+  }
+
+  .categoryCard {
+    padding: var(--space-xl) var(--space-lg);
+  }
+
+  .faktaCard {
+    padding: var(--space-xl) var(--space-lg);
+  }
+
+  .faktaText {
+    font-size: 1.05rem;
+  }
+
+  .ctaTitle {
+    font-size: 1.8rem;
+  }
+}

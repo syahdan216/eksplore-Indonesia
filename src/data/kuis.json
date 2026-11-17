@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "pertanyaan": "Tarian tradisional dari Bali yang menampilkan puluhan penari pria menyerukan 'cak-cak-cak' disebut?",
+    "pilihan": ["Tari Saman", "Tari Kecak", "Tari Pendet", "Tari Barong"],
+    "jawaban": 1,
+    "penjelasan": "Tari Kecak adalah tarian khas Bali yang mengisahkan epik Ramayana, ditampilkan oleh puluhan penari pria duduk melingkar."
+  },
+  {
+    "id": 2,
+    "pertanyaan": "Danau vulkanik terbesar di dunia terletak di provinsi mana?",
+    "pilihan": ["Jawa Barat", "Sumatera Utara", "Sulawesi Utara", "Kalimantan Timur"],
+    "jawaban": 1,
+    "penjelasan": "Danau Toba di Sumatera Utara adalah danau vulkanik terbesar di dunia, terbentuk dari letusan super sekitar 74.000 tahun lalu."
+  },
+  {
+    "id": 3,
+    "pertanyaan": "Makanan khas Sumatera Barat yang pernah dinobatkan sebagai makanan terlezat di dunia oleh CNN adalah?",
+    "pilihan": ["Sate Padang", "Rendang", "Gulai Ikan", "Dendeng Balado"],
+    "jawaban": 1,
+    "penjelasan": "Rendang dari Sumatera Barat dinobatkan sebagai makanan terlezat di dunia versi CNN pada 2011 dan 2017."
+  },
+  {
+    "id": 4,
+    "pertanyaan": "Candi Buddha terbesar di dunia yang terletak di Magelang, Jawa Tengah adalah?",
+    "pilihan": ["Candi Prambanan", "Candi Borobudur", "Candi Mendut", "Candi Plaosan"],
+    "jawaban": 1,
+    "penjelasan": "Candi Borobudur dibangun oleh Dinasti Syailendra pada abad ke-8 dan merupakan candi Buddha terbesar di dunia."
+  },
+  {
+    "id": 5,
+    "pertanyaan": "Alat musik petik tradisional dari Pulau Rote, NTT yang menggunakan resonator daun lontar disebut?",
+    "pilihan": ["Angklung", "Sasando", "Kolintang", "Sape"],
+    "jawaban": 1,
+    "penjelasan": "Sasando adalah alat musik petik tradisional dari Pulau Rote, NTT, terbuat dari bambu dengan resonator daun lontar."
+  },
+  {
+    "id": 6,
+    "pertanyaan": "Kain tenun tradisional suku Batak yang memiliki makna sakral disebut?",
+    "pilihan": ["Songket", "Ulos", "Tenun Ikat", "Batik"],
+    "jawaban": 1,
+    "penjelasan": "Ulos adalah kain tenun tradisional suku Batak dari Sumatera Utara yang digunakan dalam berbagai upacara adat."
+  },
+  {
+    "id": 7,
+    "pertanyaan": "Kepulauan di Papua Barat yang terkenal sebagai surga bawah laut adalah?",
+    "pilihan": ["Kepulauan Seribu", "Raja Ampat", "Wakatobi", "Bunaken"],
+    "jawaban": 1,
+    "penjelasan": "Raja Ampat di Papua Barat memiliki keanekaragaman hayati laut tertinggi di dunia dengan lebih dari 1.500 spesies ikan."
+  },
+  {
+    "id": 8,
+    "pertanyaan": "Seni menghias kain dengan teknik perintangan warna menggunakan malam (lilin) disebut?",
+    "pilihan": ["Tenun", "Batik", "Songket", "Jumputan"],
+    "jawaban": 1,
+    "penjelasan": "Batik adalah seni menghias kain dengan malam yang diakui UNESCO sebagai Warisan Budaya Tak Benda sejak 2009."
+  },
+  {
+    "id": 9,
+    "pertanyaan": "Gudeg adalah makanan khas dari daerah mana?",
+    "pilihan": ["Surabaya", "Yogyakarta", "Solo", "Semarang"],
+    "jawaban": 1,
+    "penjelasan": "Gudeg adalah masakan tradisional khas Yogyakarta yang terbuat dari nangka muda dimasak dengan santan dan gula merah."
+  },
+  {
+    "id": 10,
+    "pertanyaan": "Monumen Nasional (Monas) memiliki tinggi berapa meter?",
+    "pilihan": ["100 meter", "132 meter", "150 meter", "170 meter"],
+    "jawaban": 1,
+    "penjelasan": "Monas memiliki tinggi 132 meter dan di puncaknya terdapat lidah api berlapis emas seberat 35 kg."
+  },
+  {
+    "id": 11,
+    "pertanyaan": "Tari Saman yang terkenal sebagai 'Tarian Seribu Tangan' berasal dari provinsi?",
+    "pilihan": ["Aceh", "Sumatera Barat", "Riau", "Lampung"],
+    "jawaban": 0,
+    "penjelasan": "Tari Saman adalah tarian tradisional Gayo dari Aceh yang diakui UNESCO sebagai Warisan Budaya Tak Benda."
+  },
+  {
+    "id": 12,
+    "pertanyaan": "Hewan purba yang masih hidup dan menjadi ikon Taman Nasional Komodo adalah?",
+    "pilihan": ["Biawak", "Komodo", "Buaya", "Iguana"],
+    "jawaban": 1,
+    "penjelasan": "Komodo (Varanus komodoensis) adalah kadal terbesar di dunia yang hanya ditemukan di Kepulauan Komodo, NTT."
+  },
+  {
+    "id": 13,
+    "pertanyaan": "Upacara kremasi dalam tradisi Hindu Bali disebut?",
+    "pilihan": ["Galungan", "Nyepi", "Ngaben", "Melasti"],
+    "jawaban": 2,
+    "penjelasan": "Ngaben adalah upacara kremasi Hindu Bali untuk melepaskan roh dari ikatan duniawi menuju alam spiritual."
+  },
+  {
+    "id": 14,
+    "pertanyaan": "Papeda, makanan pokok yang terbuat dari sagu, berasal dari daerah?",
+    "pilihan": ["Kalimantan", "Sulawesi", "Papua", "Sumatera"],
+    "jawaban": 2,
+    "penjelasan": "Papeda adalah makanan pokok masyarakat Papua dan Maluku yang terbuat dari sagu, disajikan dengan ikan kuah kuning."
+  },
+  {
+    "id": 15,
+    "pertanyaan": "Benteng Fort Rotterdam yang terkenal di Makassar awalnya dibangun oleh?",
+    "pilihan": ["VOC Belanda", "Kerajaan Gowa", "Portugis", "Kerajaan Bone"],
+    "jawaban": 1,
+    "penjelasan": "Fort Rotterdam awalnya bernama Benteng Ujung Pandang, dibangun oleh Raja Gowa ke-9 pada tahun 1545."
+  },
+  {
+    "id": 16,
+    "pertanyaan": "Indonesia memiliki berapa provinsi saat ini (2024)?",
+    "pilihan": ["34", "37", "38", "39"],
+    "jawaban": 2,
+    "penjelasan": "Indonesia memiliki 38 provinsi setelah pemekaran beberapa provinsi baru termasuk di Papua."
+  },
+  {
+    "id": 17,
+    "pertanyaan": "Masjid tertua di Indonesia yang didirikan oleh Wali Songo terletak di kota?",
+    "pilihan": ["Cirebon", "Demak", "Kudus", "Surabaya"],
+    "jawaban": 1,
+    "penjelasan": "Masjid Agung Demak didirikan oleh Wali Songo pada tahun 1466 dan menjadi pusat penyebaran Islam di Pulau Jawa."
+  },
+  {
+    "id": 18,
+    "pertanyaan": "Rumah adat Tongkonan berasal dari suku?",
+    "pilihan": ["Bugis", "Toraja", "Dayak", "Minangkabau"],
+    "jawaban": 1,
+    "penjelasan": "Tongkonan adalah rumah adat suku Toraja di Sulawesi Selatan dengan atap melengkung khas menyerupai tanduk kerbau."
+  },
+  {
+    "id": 19,
+    "pertanyaan": "Ansambel musik tradisional yang terdiri dari instrumen perkusi logam seperti gong dan saron disebut?",
+    "pilihan": ["Angklung", "Gamelan", "Kolintang", "Talempong"],
+    "jawaban": 1,
+    "penjelasan": "Gamelan adalah ansambel musik tradisional dari Jawa dan Bali yang terdiri dari berbagai instrumen perkusi logam."
+  },
+  {
+    "id": 20,
+    "pertanyaan": "Situs paleoantropologi di Jawa Tengah yang menyumbang 50% temuan fosil manusia purba di dunia adalah?",
+    "pilihan": ["Trinil", "Sangiran", "Wajak", "Mojokerto"],
+    "jawaban": 1,
+    "penjelasan": "Situs Sangiran di Sragen, Jawa Tengah adalah salah satu situs paleoantropologi paling penting di dunia."
+  }
+]
+

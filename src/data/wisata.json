@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nama": "Raja Ampat",
+    "provinsi": "Papua Barat Daya",
+    "pulau": "Papua & Maluku",
+    "deskripsi": "Raja Ampat adalah gugusan kepulauan yang tersusun atas empat pulau utama — Waigeo, Misool, Salawati, dan Batanta — serta ratusan pulau karst eksotis. Terkenal sebagai pusat segitiga karang dunia dengan keanekaragaman hayati laut tertinggi di planet bumi, memiliki lebih dari 1.500 spesies ikan karang.",
+    "deskripsiSingkat": "Surga bawah laut terindah di dunia dengan gugusan pulau karang eksotis.",
+    "gambar": "/images/wisata/raja-ampat.jpg",
+    "tips": "Waktu terbaik berkunjung adalah Oktober hingga April saat gelombang laut tenang. Bawalah kamera bawah air untuk mengabadikan terumbu karang."
+  },
+  {
+    "id": 2,
+    "nama": "Gunung Bromo",
+    "provinsi": "Jawa Timur",
+    "pulau": "Jawa",
+    "deskripsi": "Gunung Bromo menjulang setinggi 2.329 mdpl di kawasan Taman Nasional Bromo Tengger Semeru. Pemandangan kawah aktif yang diselimuti lautan pasir seluas 5.250 hektar dan panorama matahari terbit dari Penanjakan menjadikannya salah satu lanskap paling magis di Indonesia.",
+    "deskripsiSingkat": "Gunung berapi aktif legendaris dengan lautan pasir dan panorama matahari terbit spektakuler.",
+    "gambar": "/images/wisata/bromo.jpg",
+    "tips": "Suhu pagi hari bisa mencapai 3-10°C, kenakan jaket tebal, syal, dan sarung tangan. Sewa jeep 4x4 untuk kemudahan mobilitas."
+  },
+  {
+    "id": 3,
+    "nama": "Danau Toba",
+    "provinsi": "Sumatera Utara",
+    "pulau": "Sumatera",
+    "deskripsi": "Danau Toba merupakan danau vulkanik purba terbesar di dunia dengan panjang 100 km dan lebar 30 km. Terbentuk dari letusan dahsyat gunung berapi super sekitar 74.000 tahun lalu. Di tengah danau megah ini terdapat Pulau Samosir yang sarat akan warisan luhur kebudayaan Batak.",
+    "deskripsiSingkat": "Danau vulkanik kaldera terbesar di dunia dengan keindahan Pulau Samosir.",
+    "gambar": "/images/wisata/danau-toba.jpg",
+    "tips": "Jelajahi Desa Tomok untuk melihat Makam Raja Sidabutar dan pertunjukan patung Sigale-gale."
+  },
+  {
+    "id": 4,
+    "nama": "Taman Nasional Komodo",
+    "provinsi": "Nusa Tenggara Timur",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Kawasan konservasi warisan dunia UNESCO yang mencakup Pulau Komodo, Rinca, dan Padar. Habitat alami biawak raksasa purba Varanus komodoensis. Keindahan savana berpadu dengan pantai berpasir merah muda (Pink Beach) dan perairan kaya pari manta.",
+    "deskripsiSingkat": "Habitat asli kadal purba komodo dan keindahan pulau berbatu savana.",
+    "gambar": "/images/wisata/komodo.jpg",
+    "tips": "Gunakan pemandu ranger berpengalaman dan hindari memakai pakaian berwarna merah terang saat mendekati habitat komodo."
+  },
+  {
+    "id": 5,
+    "nama": "Taman Nasional Tanjung Puting",
+    "provinsi": "Kalimantan Tengah",
+    "pulau": "Kalimantan",
+    "deskripsi": "Cagar biosfer dunia seluas 415.040 hektar yang menjadi pusat konservasi dan rehabilitasi orangutan terbesar di muka bumi. Mengarungi Sungai Sekonyer menggunakan perahu kayu tradisional 'klotok' memberikan sensasi safari hutan hujan tropis yang tak terlupakan.",
+    "deskripsiSingkat": "Pusat konservasi orangutan liar terbesar di habitat hutan hujan tropis alami.",
+    "gambar": "/images/wisata/tanjung-puting.jpg",
+    "tips": "Pesan perahu klotok jauh-jauh hari terutama di musim liburan Juli-Agustus. Siapkan lotion anti-nyamuk dan teropong burung."
+  },
+  {
+    "id": 6,
+    "nama": "Pura Tanah Lot",
+    "provinsi": "Bali",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Pura laut suci yang berdiri kokoh di atas bongkahan karang besar di pesisir Tabanan, Bali. Dibangun oleh Danghyang Nirartha pada abad ke-16. Saat air pasang, pura ini tampak terapung megah di tengah deburan ombak Samudra Hindia dengan siluet matahari terbenam yang dramatis.",
+    "deskripsiSingkat": "Pura laut ikonik di atas tebing karang dengan siluet matahari terbenam paling memukau di Bali.",
+    "gambar": "/images/wisata/tanah-lot.jpg",
+    "tips": "Tiba di lokasi sebelum pukul 17.00 WITA agar mendapat tempat terbaik untuk menyaksikan momen matahari terbenam."
+  },
+  {
+    "id": 7,
+    "nama": "Tana Toraja",
+    "provinsi": "Sulawesi Selatan",
+    "pulau": "Sulawesi",
+    "deskripsi": "Kawasan perbukitan berkabut yang menyimpan tradisi megalitikum hidup. Terkenal dengan rumah adat beratap melengkung Tongkonan, kuburan batu pahat Lemo, makam gantung Kete Kesu, dan upacara kematian agung Rambu Solo yang meriah.",
+    "deskripsiSingkat": "Lembah budaya mistis dengan arsitektur rumah Tongkonan dan tradisi kubur tebing batu.",
+    "gambar": "/images/wisata/tana-toraja.jpg",
+    "tips": "Bulan Juli hingga September adalah waktu paling ideal karena banyak digelar upacara adat pemakaman Rambu Solo."
+  },
+  {
+    "id": 8,
+    "nama": "Kawah Ijen",
+    "provinsi": "Jawa Timur",
+    "pulau": "Jawa",
+    "deskripsi": "Danau kawah asam terbesar di dunia dengan warna toska mempesona pada ketinggian 2.386 mdpl. Kawah Ijen terkenal dengan fenomena alam langka 'api biru' (blue fire) yang hanya ada dua di dunia, serta kegigihan para penambang belerang tradisional.",
+    "deskripsiSingkat": "Danau kawah toska dengan fenomena langka api biru alami di malam hari.",
+    "gambar": "/images/wisata/kawah-ijen.jpg",
+    "tips": "Pendakian dimulai tengah malam sekitar pukul 01.00 WIB. Wajib menyewa masker respirator khusus gas belerang."
+  },
+  {
+    "id": 9,
+    "nama": "Taman Nasional Bunaken",
+    "provinsi": "Sulawesi Utara",
+    "pulau": "Sulawesi",
+    "deskripsi": "Taman laut legendaris di Teluk Manado dengan keindahan dinding karang terjal (underwater vertical wall) sedalam 25-50 meter. Tempat bernaung 390 spesies terumbu karang, penyu sisik hijau, dan ribuan biota laut tropis penuh warna.",
+    "deskripsiSingkat": "Surga menyelam dengan dinding karang vertikal spektakuler dan keanekaragaman laut tropis.",
+    "gambar": "/images/wisata/bunaken.jpg",
+    "tips": "Visibilitas air paling jernih (mencapai 30-40 meter) terjadi antara bulan Mei hingga September."
+  },
+  {
+    "id": 10,
+    "nama": "Danau Kelimutu",
+    "provinsi": "Nusa Tenggara Timur",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Gunung berapi di Pulau Flores yang memiliki tiga danau kawah dengan warna air yang dapat berubah-ubah secara berkala dari biru toska, merah tua, hingga cokelat kehitaman akibat reaksi mineral vulkanik gas fumarol.",
+    "deskripsiSingkat": "Tiga danau kawah mistis di puncak gunung yang berubah-ubah warna airnya.",
+    "gambar": "/images/wisata/kelimutu.jpg",
+    "tips": "Lakukan trekking sebelum subuh menuju puncak Kelimutu (1.639 mdpl) untuk menyaksikan sunrise yang menyinari danau tri-warna."
+  },
+  {
+    "id": 11,
+    "nama": "Banda Neira",
+    "provinsi": "Maluku",
+    "pulau": "Papua & Maluku",
+    "deskripsi": "Gugusan kepulauan rempah bersejarah di Laut Banda yang dahulu menjadi satu-satunya penghasil pala di dunia dan diperebutkan bangsa-bangsa Eropa. Dihiasi Benteng Belgica abad ke-17, Gunung Api Banda, dan keindahan bahari yang perawan.",
+    "deskripsiSingkat": "Kepulauan rempah bersejarah dengan benteng kolonial megah dan keindahan terumbu karang.",
+    "gambar": "/images/wisata/banda-neira.jpg",
+    "tips": "Naiki puncak Benteng Belgica untuk mendapatkan pemandangan 360 derajat pulau dan kerucut Gunung Api Banda."
+  },
+  {
+    "id": 12,
+    "nama": "Kepulauan Derawan",
+    "provinsi": "Kalimantan Timur",
+    "pulau": "Kalimantan",
+    "deskripsi": "Gugusan pulau tropis di Kabupaten Berau yang mencakup Pulau Maratua, Sangalaki, dan Kakaban. Di Danau Kakaban, Anda dapat berenang bebas bersama ribuan ubur-ubur tanpa sengat (stingless jellyfish) purba yang sangat ramah.",
+    "deskripsiSingkat": "Destinasi bahari dengan danau ubur-ubur langka tanpa sengat dan penangkaran penyu hijau.",
+    "gambar": "/images/wisata/derawan.jpg",
+    "tips": "Jangan gunakan tabir surya kimia saat berenang bersama ubur-ubur di Danau Kakaban demi menjaga kelestarian ekosistem."
+  },
+  {
+    "id": 13,
+    "nama": "Pantai Tanjung Tinggi",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "pulau": "Sumatera",
+    "deskripsi": "Pantai elok di Belitung barat dengan hamparan pasir putih bersih dan ratusan batu granit raksasa berumur jutaan tahun yang tersebar di tepi pantai serta air laut jernih berkilau laksana cermin.",
+    "deskripsiSingkat": "Pantai ikonik negeri Laskar Pelangi dengan susunan formasi batuan granit raksasa.",
+    "gambar": "/images/wisata/belitung.jpg",
+    "tips": "Waktu terbaik adalah pagi hari saat air surut tenang dan cahaya mentari memantul jernih di atas formasi batu granit."
+  },
+  {
+    "id": 14,
+    "nama": "Ngarai Sianok",
+    "provinsi": "Sumatera Barat",
+    "pulau": "Sumatera",
+    "deskripsi": "Lembah sempit curam sedalam 100-120 meter yang membentang sepanjang 15 km di Kota Bukittinggi. Dinding tebing terjal nan hijau dengan aliran sungai Batang Sianok di dasarnya menawarkan lanskap alam Ranah Minang yang sangat menenteramkan.",
+    "deskripsiSingkat": "Lembah ngarai tebing hijau nan curam di kaki Gunung Singgalang.",
+    "gambar": "/images/wisata/ngarai-sianok.jpg",
+    "tips": "Kunjungi Taman Panorama Bukittinggi untuk sudut pemandangan terbaik, lalu masuki Lobang Jepang di dekatnya."
+  }
+]

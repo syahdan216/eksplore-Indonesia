@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "nama": "Rendang Daging",
+    "asal": "Sumatera Barat (Minangkabau)",
+    "pulau": "Sumatera",
+    "deskripsi": "Masakan daging sapi olahan rempah khas Minangkabau yang dimasak perlahan bersama santan kental, serai, daun jeruk, lengkuas, dan cabai merah selama berjam-jam hingga minyaknya terserap dan warnanya menghitam karamel alami. Pernah terpilih sebagai 'World's Most Delicious Food' versi CNN International.",
+    "gambar": "/images/kuliner/rendang.jpg",
+    "tags": ["Pedas", "Kering"]
+  },
+  {
+    "id": 2,
+    "nama": "Gudeg Yu Djum",
+    "asal": "DI Yogyakarta",
+    "pulau": "Jawa",
+    "deskripsi": "Kuliner legendaris berbahan dasar nangka muda (gori) yang direbus berjam-jam dalam kuah santan kelapa kental, gula aren, dan daun jati yang memberi semburat warna cokelat kemerahan alami. Disajikan bersama nasi pulen hangat, ayam kampung opor, tahu tempe bacem, telur pindang, dan sambal goreng krecek pedas.",
+    "gambar": "/images/kuliner/gudeg.jpg",
+    "tags": ["Manis", "Berkuah"]
+  },
+  {
+    "id": 3,
+    "nama": "Papeda Ikan Kuah Kuning",
+    "asal": "Papua & Maluku",
+    "pulau": "Papua & Maluku",
+    "deskripsi": "Makanan pokok warisan leluhur Papua berbahan tepung sagu murni yang disiram air mendidih lalu diputar cepat menggunakan sumpit gata-gata hingga bertekstur kenyal bening. Dinikmati bersama ikan tongkol atau kakap kuah kuning berbumbu kunyit, kemangi, dan perasan jeruk nipis segar.",
+    "gambar": "/images/kuliner/papeda.jpg",
+    "tags": ["Berkuah"]
+  },
+  {
+    "id": 4,
+    "nama": "Coto Makassar",
+    "asal": "Sulawesi Selatan (Makassar)",
+    "pulau": "Sulawesi",
+    "deskripsi": "Sup daging dan jeroan sapi legendaris yang direbus bersama bumbu rempah 'rampah patangpulo' (campuran 40 jenis rempah) dan tumbukan kacang tanah sangrai gurih. Disajikan mengepul panas bersama ketupat daun pandan atau buras dan perasan jeruk nipis.",
+    "gambar": "/images/kuliner/coto-makassar.jpg",
+    "tags": ["Berkuah", "Pedas"]
+  },
+  {
+    "id": 5,
+    "nama": "Soto Banjar",
+    "asal": "Kalimantan Selatan (Banjarmasin)",
+    "pulau": "Kalimantan",
+    "deskripsi": "Soto khas suku Banjar yang berkuah bening harum rempah kayu manis, biji pala, cengkeh, dan kapulaga. Diperkaya suwiran ayam kampung, perkedel kentang kenyal, potongan telur bebek rebus, bihun, dan perasan limau kuit wangi khas Kalimantan.",
+    "gambar": "/images/kuliner/soto-banjar.jpg",
+    "tags": ["Berkuah"]
+  },
+  {
+    "id": 6,
+    "nama": "Ayam Betutu Gilimanuk",
+    "asal": "Bali",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Ayam utuh yang dibaluri bumbu base genep lengkap (kunyit, kencur, jahe, lengkuas, cabai, terasi bakar), lalu dibungkus pelepah pinang atau daun pisang dan dipanggang di dalam sekam bara api berjam-jam hingga dagingnya lembut lumer dan bumbu meresap ke tulang.",
+    "gambar": "/images/kuliner/ayam-betutu.jpg",
+    "tags": ["Pedas", "Kering"]
+  },
+  {
+    "id": 7,
+    "nama": "Nasi Goreng Nusantara",
+    "asal": "Nasional",
+    "pulau": "Jawa",
+    "deskripsi": "Hidangan nasi goreng beraroma bumbu bawang merah, terasi, kecap manis legit, dan cabai rawit yang diolah dengan wajan bertemperatur tinggi. Dilengkapi telur mata sapi setengah matang, kerupuk udang renyah, dan acar mentimun segar.",
+    "gambar": "/images/kuliner/nasi-goreng.jpg",
+    "tags": ["Pedas", "Kering"]
+  },
+  {
+    "id": 8,
+    "nama": "Pempek Palembang",
+    "asal": "Sumatera Selatan (Palembang)",
+    "pulau": "Sumatera",
+    "deskripsi": "Kuliner berbahan daging ikan tenggiri giling dan tepung sagu yang direbus lalu digoreng garing keemasan. Dinikmati dengan dicelupkan ke dalam kuah cuko kental pedas-manis berbahan gula batok Linggau, asam jawa, dan cabai rawit hijau.",
+    "gambar": "/images/kuliner/pempek.jpg",
+    "tags": ["Pedas", "Manis"]
+  },
+  {
+    "id": 9,
+    "nama": "Sate Padang",
+    "asal": "Sumatera Barat",
+    "pulau": "Sumatera",
+    "deskripsi": "Tusukan daging sapi, lidah, dan jeroan gurih yang dibakar di atas arang batok kelapa, lalu disiram saus kuah kental berwarna kuning keemasan berbahan tepung beras, kunyit, ketumbar, dan puluhan cabai giling.",
+    "gambar": "/images/kuliner/sate-padang.jpg",
+    "tags": ["Pedas", "Berkuah"]
+  },
+  {
+    "id": 10,
+    "nama": "Bika Ambon",
+    "asal": "Sumatera Utara (Medan)",
+    "pulau": "Sumatera",
+    "deskripsi": "Kue tradisional legendaris berongga-rongga sarang semut yang harum legit, terbuat dari adonan tepung tapioka, santan kelapa, air nira (tuak manis), serta daun jeruk purut.",
+    "gambar": "/images/kuliner/bika-ambon.jpg",
+    "tags": ["Manis", "Kering"]
+  },
+  {
+    "id": 11,
+    "nama": "Ayam Taliwang",
+    "asal": "Nusa Tenggara Barat (Lombok)",
+    "pulau": "Bali & Nusa Tenggara",
+    "deskripsi": "Ayam kampung muda yang dibakar dengan lumuran bumbu cabai merah kering, terasi Lombok bakar, bawang putih, dan gula merah. Rasanya gurih pedas menggigit, nikmat disantap bersama plecing kangkung.",
+    "gambar": "/images/kuliner/ayam-taliwang.jpg",
+    "tags": ["Pedas", "Kering"]
+  },
+  {
+    "id": 12,
+    "nama": "Mie Aceh",
+    "asal": "Aceh",
+    "pulau": "Sumatera",
+    "deskripsi": "Mie kuning tebal kenyal yang dimasak kuah kari kental pedas bersama irisan daging sapi empuk, kepiting, atau udang, ditaburi bawang goreng renyah dan emping melinjo.",
+    "gambar": "/images/kuliner/mie-aceh.jpg",
+    "tags": ["Pedas", "Berkuah"]
+  },
+  {
+    "id": 13,
+    "nama": "Kerak Telor Betawi",
+    "asal": "DKI Jakarta",
+    "pulau": "Jawa",
+    "deskripsi": "Penganan khas Betawi berbahan beras ketan putih yang dimasak di atas wajan cekung tanpa minyak bersama telur bebek atau ayam, lalu dibalik langsung menghadap arang membara dan ditaburi serundeng kelapa sangrai pedas.",
+    "gambar": "/images/kuliner/kerak-telor.jpg",
+    "tags": ["Kering"]
+  },
+  {
+    "id": 14,
+    "nama": "Rawon Surabaya",
+    "asal": "Jawa Timur",
+    "pulau": "Jawa",
+    "deskripsi": "Sup daging sapi berkuah hitam pekat alami dari buah kluwek fermentasi. Memiliki cita rasa earthy yang sangat kaya, disajikan bersama tauge pendek segar, sambal terasi, dan telur asin.",
+    "gambar": "/images/kuliner/rawon.jpg",
+    "tags": ["Berkuah"]
+  },
+  {
+    "id": 15,
+    "nama": "Lumpia Semarang",
+    "asal": "Jawa Tengah (Semarang)",
+    "pulau": "Jawa",
+    "deskripsi": "Gulungan kulit pastry tipis renyah dengan isian rebung manis muda, daging ayam atau udang cincang, dinikmati bersama saus cocolan bawang kental manis gurih dan daun bawang segar.",
+    "gambar": "/images/kuliner/lumpia-semarang.jpg",
+    "tags": ["Manis", "Kering"]
+  },
+  {
+    "id": 16,
+    "nama": "Soto Betawi",
+    "asal": "DKI Jakarta",
+    "pulau": "Jawa",
+    "deskripsi": "Soto daging sapi dengan kuah santan dan susu sapi gurih beraroma cengkeh, kayu manis, dan pala. Dilengkapi potongan kentang rebus, tomat segar, dan emping melinjo gurih.",
+    "gambar": "/images/kuliner/soto-betawi.jpg",
+    "tags": ["Berkuah"]
+  }
+]

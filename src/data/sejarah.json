@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nama": "Candi Borobudur",
+    "lokasi": "Magelang, Jawa Tengah",
+    "pulau": "Jawa",
+    "era": "Hindu-Buddha",
+    "tahun": "Abad ke-8 Masehi (ca. 770-825 M)",
+    "deskripsi": "Monumen Buddha terbesar di dunia yang dibangun oleh wangsa Syailendra dari Kerajaan Mataram Kuno. Candi berbentuk mandala agung bertingkat 10 ini dihiasi 2.672 panel relief pahatan batu andesit yang melukiskan riwayat Lalitavistara dan Jataka, serta 504 arca Buddha yang bernaung di dalam stupa berterawang. Ditetapkan sebagai Situs Warisan Dunia UNESCO pada tahun 1991.",
+    "gambar": "/images/sejarah/borobudur.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "Candi Prambanan",
+    "lokasi": "Sleman, DI Yogyakarta & Klaten, Jawa Tengah",
+    "pulau": "Jawa",
+    "era": "Hindu-Buddha",
+    "tahun": "Abad ke-9 Masehi (ca. 850 M)",
+    "deskripsi": "Kompleks candi Hindu terindah dan termegah di Indonesia yang dipersembahkan untuk Trimurti (Brahma sang pencipta, Wisnu sang pemelihara, dan Siwa sang perusak). Menara candi utama Siwa menjulang setinggi 47 meter ke angkasa dengan ukiran relief epos Ramayana dan Kresnayana yang memesona.",
+    "gambar": "/images/sejarah/prambanan.jpg"
+  },
+  {
+    "id": 3,
+    "nama": "Benteng Fort Rotterdam",
+    "lokasi": "Makassar, Sulawesi Selatan",
+    "pulau": "Sulawesi",
+    "era": "Kolonial",
+    "tahun": "1545 M (dibangun Kerajaan Gowa), 1667 M (Belanda)",
+    "deskripsi": "Awalnya bernama Benteng Ujung Pandang, dibangun oleh Raja Gowa ke-9 Daeng Matanre Karaeng Manguntungi Tumapa'risi' Kallonna dengan bentuk benteng menyerupai penyu yang merayap menuju laut. Setelah Perjanjian Bungaya, benteng direbut oleh Cornelis Speelman dan dinamai Fort Rotterdam sesuai kota kelahirannya.",
+    "gambar": "/images/sejarah/fort-rotterdam.jpg"
+  },
+  {
+    "id": 4,
+    "nama": "Gedung Sate",
+    "lokasi": "Bandung, Jawa Barat",
+    "pulau": "Jawa",
+    "era": "Kolonial",
+    "tahun": "1920 - 1924 M",
+    "deskripsi": "Karya arsitektur monumental Ir. J. Gerber yang memadukan langgam arsitektur Neo-Klasik Eropa dengan ornamen candi Hindu Jawa dan atap pura Bali. Dinamai Gedung Sate oleh warga Bandung karena ornamen puncak menaranya memiliki hiasan 6 buah tusuk sate yang melambangkan biaya pembangunan sebesar 6 juta gulden.",
+    "gambar": "/images/sejarah/gedung-sate.jpg"
+  },
+  {
+    "id": 5,
+    "nama": "Monumen Nasional (Monas)",
+    "lokasi": "Jakarta Pusat, DKI Jakarta",
+    "pulau": "Jawa",
+    "era": "Kemerdekaan",
+    "tahun": "1961 - 1975 M",
+    "deskripsi": "Tugu kebanggaan bangsa setinggi 132 meter yang digagas oleh Presiden Soekarno untuk mengabadikan heroisme perjuangan kemerdekaan rakyat Indonesia. Mahkota tugu berwujud lidah api perunggu berlapis 35 kg emas murni yang menyimbolkan semangat perjuangan yang tak kunjung padam.",
+    "gambar": "/images/sejarah/monas.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Situs Manusia Purba Sangiran",
+    "lokasi": "Sragen & Karanganyar, Jawa Tengah",
+    "pulau": "Jawa",
+    "era": "Prasejarah",
+    "tahun": "1,5 Juta Tahun Silang",
+    "deskripsi": "Situs arkeologi prasejarah terpenting di muka bumi yang menyumbang lebih dari 50% temuan fosil hominid purba dunia. Di lembah kubah Sangiran ditemukan lapisan fosil Homo erectus (Pithecanthropus erectus), Meganthropus palaeojavanicus, serta ribuan fosil mamalia purba Pleistosen.",
+    "gambar": "/images/sejarah/sangiran.jpg"
+  },
+  {
+    "id": 7,
+    "nama": "Masjid Agung Demak",
+    "lokasi": "Demak, Jawa Tengah",
+    "pulau": "Jawa",
+    "era": "Islam",
+    "tahun": "1479 Masehi",
+    "deskripsi": "Salah satu masjid tertua di Indonesia yang didirikan oleh Raden Patah bersama Walisongo pada masa Kesultanan Demak Bintoro. Beratap tumpang tiga bersusun sirap kayu jati yang sarat makna aqidah, serta tiang utama legendaris 'Saka Tatal' yang dibuat dari susunan serpihan kayu oleh Sunan Kalijaga.",
+    "gambar": "/images/sejarah/masjid-demak.jpg"
+  },
+  {
+    "id": 8,
+    "nama": "Istana Maimun",
+    "lokasi": "Medan, Sumatera Utara",
+    "pulau": "Sumatera",
+    "era": "Kolonial",
+    "tahun": "1888 - 1891 M",
+    "deskripsi": "Istana megah Kesultanan Deli rancangan kapten zeni KNIL Italia, Theodoor van Erp. Menampilkan perpaduan harmonis antara arsitektur Melayu Islam, kubah gaya Moghul India, serta detail interior bergaya Spanyol dan Belanda.",
+    "gambar": "/images/sejarah/istana-maimun.jpg"
+  },
+  {
+    "id": 9,
+    "nama": "Lawang Sewu",
+    "lokasi": "Semarang, Jawa Tengah",
+    "pulau": "Jawa",
+    "era": "Kolonial",
+    "tahun": "1904 - 1907 M",
+    "deskripsi": "Bekas kantor pusat perusahaan kereta api Hindia Belanda (NIS) yang terkenal dengan jendela-jendela besar dan pintu lengkung yang jumlahnya terhitung ribuan. Bangunan ini menjadi saksi pertempuran lima hari pemuda Semarang melawan tentara Jepang pada Oktober 1945.",
+    "gambar": "/images/sejarah/lawang-sewu.jpg"
+  },
+  {
+    "id": 10,
+    "nama": "Benteng Vredeburg",
+    "lokasi": "DI Yogyakarta",
+    "pulau": "Jawa",
+    "era": "Kolonial",
+    "tahun": "1767 Masehi",
+    "deskripsi": "Benteng peninggalan Belanda yang berhadapan langsung dengan Gedung Agung dan Keraton Yogyakarta. Awalnya dibangun Belanda untuk mengawasi pergerakan Keraton Kasultanan Yogyakarta. Kini benteng kokoh ini menjadi Museum Perjuangan Nasional.",
+    "gambar": "/images/sejarah/benteng-vredeburg.jpg"
+  },
+  {
+    "id": 11,
+    "nama": "Masjid Raya Baiturrahman",
+    "lokasi": "Banda Aceh, Aceh",
+    "pulau": "Sumatera",
+    "era": "Islam",
+    "tahun": "1614 M (era Sultan Iskandar Muda), 1879 M",
+    "deskripsi": "Simbol keteguhan dan spiritualitas rakyat Serambi Mekkah. Masjid dengan kubah hitam megah bergaya arsitektur Moghul ini tetap berdiri kokoh tanpa kerusakan berarti tatkala tsunami dahsyat memporak-porandakan pesisir Aceh pada tahun 2004.",
+    "gambar": "/images/sejarah/masjid-baiturrahman.jpg"
+  },
+  {
+    "id": 12,
+    "nama": "Taman Sari Yogyakarta",
+    "lokasi": "DI Yogyakarta",
+    "pulau": "Jawa",
+    "era": "Islam",
+    "tahun": "1758 - 1765 M",
+    "deskripsi": "Situs bekas kebun istana pemandian dan peristirahatan Sultan Hamengkubuwono I. Memiliki lorong-lorong bawah tanah rahasia, masjid bawah tanah Sumur Gumuling yang artistik, serta kolam-kolam pemandian Umbul Pasiraman nan sejuk.",
+    "gambar": "/images/sejarah/taman-sari.jpg"
+  },
+  {
+    "id": 13,
+    "nama": "Kompleks Candi Muaro Jambi",
+    "lokasi": "Muaro Jambi, Jambi",
+    "pulau": "Sumatera",
+    "era": "Hindu-Buddha",
+    "tahun": "Abad ke-7 - 12 Masehi",
+    "deskripsi": "Kompleks percandian bata merah terluas di Asia Tenggara (seluas 3.981 hektar) yang merupakan pusat peradaban dan universitas pendidikan Buddha Kerajaan Sriwijaya dan Melayu Kuno yang pernah disinggahi oleh biksu I-Tsing dari Tiongkok.",
+    "gambar": "/images/sejarah/candi-muaro-jambi.jpg"
+  },
+  {
+    "id": 14,
+    "nama": "Benteng Marlborough",
+    "lokasi": "Bengkulu, Sumatera",
+    "pulau": "Sumatera",
+    "era": "Kolonial",
+    "tahun": "1713 - 1719 M",
+    "deskripsi": "Benteng peninggalan imperium kolonial Inggris (East India Company) terbesar kedua di Asia setelah Benteng St. George di India. Berdiri kokoh menghadap Samudra Hindia sebagai benteng pertahanan dagang lada Inggris.",
+    "gambar": "/images/sejarah/benteng-marlborough.jpg"
+  }
+]

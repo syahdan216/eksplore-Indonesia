@@ -1,0 +1,175 @@
+/* ===== TENTANG KAMI PAGE ===== */
+
+.tentangPage {
+  overflow-x: hidden;
+}
+
+/* ===== MISI SECTION ===== */
+.misiSection {
+  background-color: var(--warm-cream);
+}
+
+.misiContent {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-xl);
+  margin-top: var(--space-lg);
+}
+
+.misiCard {
+  background: var(--card-bg);
+  border-radius: var(--radius-md);
+  padding: var(--space-2xl) var(--space-xl);
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-normal);
+  border: 1px solid var(--card-border);
+}
+
+.misiCard:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--mustard-gold-light);
+}
+
+.misiIconWrapper {
+  width: 72px;
+  height: 72px;
+  border-radius: var(--radius-full);
+  background: linear-gradient(135deg, var(--mustard-gold-light), var(--mustard-gold));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-lg);
+}
+
+.misiIcon {
+  font-size: 1.8rem;
+  color: var(--dark-chocolate);
+}
+
+.misiCard h3 {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  margin-bottom: var(--space-md);
+  color: var(--dark-chocolate);
+}
+
+.misiCard p {
+  color: var(--dark-chocolate-light);
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+/* ===== TEAM SECTION ===== */
+.teamSection {
+  background-color: var(--section-alt-bg);
+}
+
+.teamGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-xl);
+}
+
+.teamCard {
+  text-align: center;
+  padding: var(--space-2xl) var(--space-xl);
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-normal);
+}
+
+.teamCard:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+}
+
+.avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: var(--radius-full);
+  background: linear-gradient(135deg, var(--olive-green), var(--olive-green-dark));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-lg);
+  font-family: var(--font-heading);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--warm-cream);
+  letter-spacing: 0.05em;
+}
+
+.memberName {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  color: var(--dark-chocolate);
+  margin-bottom: var(--space-xs);
+}
+
+.memberRole {
+  font-size: 0.9rem;
+  color: var(--mustard-gold-dark);
+  font-weight: 600;
+}
+
+/* ===== REFERENSI SECTION ===== */
+.referensiSection {
+  background-color: var(--warm-cream);
+}
+
+.referensiList {
+  max-width: 650px;
+  margin: 0 auto;
+  list-style: none;
+}
+
+.referensiItem {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius-sm);
+  margin-bottom: var(--space-sm);
+  font-size: 0.95rem;
+  color: var(--dark-chocolate);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-fast);
+}
+
+.referensiItem:hover {
+  transform: translateX(4px);
+  box-shadow: var(--shadow-md);
+}
+
+.referensiBullet {
+  color: var(--mustard-gold);
+  font-size: 0.8rem;
+  flex-shrink: 0;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 1024px) {
+  .misiContent,
+  .teamGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .misiContent,
+  .teamGrid {
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+  }
+
+  .misiCard,
+  .teamCard {
+    padding: var(--space-xl) var(--space-lg);
+  }
+}

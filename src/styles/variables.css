@@ -1,0 +1,97 @@
+:root {
+  /* Nusantara Vintage Light Color Palette */
+  --mustard-gold: #E5A93B;
+  --burnt-orange: #D45D34;
+  --olive-green: #5B7053;
+  --dark-chocolate: #3E2723;
+  --warm-cream: #F7F4EB;
+
+  /* Derived colors */
+  --mustard-gold-light: #f0c36a;
+  --mustard-gold-dark: #c8912e;
+  --burnt-orange-light: #e07a56;
+  --olive-green-light: #7a9470;
+  --olive-green-dark: #465843;
+  --dark-chocolate-light: #5d4037;
+  --warm-cream-dark: #ede8d9;
+  --overlay-dark: rgba(62, 39, 35, 0.75);
+  --overlay-light: rgba(62, 39, 35, 0.3);
+
+  /* Component specific tokens (Light) */
+  --card-bg: #ffffff;
+  --card-border: rgba(229, 169, 59, 0.2);
+  --modal-bg: var(--warm-cream);
+  --modal-body-bg: var(--warm-cream);
+  --input-bg: #fdfaf3;
+  --input-border: #ded5c2;
+  --navbar-bg: #3E2723;
+  --footer-bg: #3E2723;
+  --section-alt-bg: #ffffff;
+
+  /* Typography */
+  --font-heading: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'Lato', 'Segoe UI', Tahoma, sans-serif;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4rem;
+
+  /* Border Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 50%;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(62, 39, 35, 0.08);
+  --shadow-md: 0 4px 16px rgba(62, 39, 35, 0.12);
+  --shadow-lg: 0 8px 32px rgba(62, 39, 35, 0.16);
+
+  /* Transitions */
+  --transition-fast: 200ms ease;
+  --transition-normal: 300ms ease;
+  --transition-slow: 500ms ease;
+
+  /* Layout */
+  --max-width: 1200px;
+  --navbar-height: 72px;
+}
+
+/* Nusantara Vintage Dark Mode */
+[data-theme="dark"] {
+  --mustard-gold: #F0B74B;
+  --burnt-orange: #E26E46;
+  --olive-green: #6C8263;
+  --dark-chocolate: #F7F3E9;
+  --warm-cream: #18120E;
+
+  --mustard-gold-light: #f7cc74;
+  --mustard-gold-dark: #df9e28;
+  --burnt-orange-light: #ea8561;
+  --olive-green-light: #89a37f;
+  --olive-green-dark: #556c4d;
+  --dark-chocolate-light: #D2C6B2;
+  --warm-cream-dark: #221A15;
+  --overlay-dark: rgba(14, 9, 6, 0.88);
+  --overlay-light: rgba(14, 9, 6, 0.5);
+
+  /* Component tokens (Dark) */
+  --card-bg: #231913;
+  --card-border: rgba(240, 183, 75, 0.22);
+  --modal-bg: #1e1510;
+  --modal-body-bg: #1e1510;
+  --input-bg: #2b1f18;
+  --input-border: #4a362a;
+  --navbar-bg: #140e0a;
+  --footer-bg: #140e0a;
+  --section-alt-bg: #1f1611;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 12px 36px rgba(0, 0, 0, 0.6);
+}

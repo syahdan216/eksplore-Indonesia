@@ -1,0 +1,157 @@
+.card {
+  background: var(--card-bg);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--card-border);
+  transition: transform 320ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 320ms ease, border-color 320ms ease;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.card:hover {
+  box-shadow: 0 16px 36px rgba(62, 39, 35, 0.16);
+  transform: translateY(-8px);
+  border-color: var(--mustard-gold);
+}
+
+.card:focus-visible {
+  outline: 3px solid var(--mustard-gold);
+  outline-offset: 2px;
+}
+
+/* Image wrapper */
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: #2b1912;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 500ms ease;
+  display: block;
+}
+
+.card:hover .image {
+  transform: scale(1.08);
+}
+
+.imageOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 35%;
+  background: linear-gradient(
+    to top,
+    rgba(62, 39, 35, 0.4) 0%,
+    transparent 100%
+  );
+  pointer-events: none;
+}
+
+/* Fallback when image fails */
+.fallbackWrapper {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, var(--dark-chocolate) 0%, #5d3d2e 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  color: var(--mustard-gold);
+  padding: 1rem;
+  text-align: center;
+}
+
+.fallbackIcon {
+  font-size: 2.2rem;
+  opacity: 0.7;
+}
+
+.fallbackText {
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  color: var(--warm-cream);
+  font-weight: 600;
+}
+
+/* Content */
+.content {
+  padding: 1.35rem 1.35rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.nama {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--dark-chocolate);
+  margin: 0;
+  line-height: 1.3;
+  transition: color var(--transition-fast);
+}
+
+.card:hover .nama {
+  color: var(--burnt-orange);
+}
+
+.lokasi {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--burnt-orange);
+  margin: 0;
+}
+
+.lokasiIcon {
+  flex-shrink: 0;
+  font-size: 0.85rem;
+}
+
+.deskripsi {
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  color: var(--dark-chocolate-light);
+  line-height: 1.65;
+  margin: 0.2rem 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Tags */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: auto;
+  padding-top: 0.35rem;
+}
+
+.tag {
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--olive-green-dark);
+  background: rgba(91, 112, 83, 0.12);
+  border: 1px solid rgba(91, 112, 83, 0.28);
+  padding: 2px 10px;
+  border-radius: 999px;
+  white-space: nowrap;
+}

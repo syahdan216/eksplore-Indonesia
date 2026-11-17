@@ -1,0 +1,218 @@
+[
+  {
+    "id": "aceh",
+    "nama": "Aceh",
+    "pulau": "Sumatera",
+    "wisata": ["Masjid Raya Baiturrahman", "Pulau Weh Sabang", "Pantai Lampuuk"],
+    "budaya": ["Tari Saman", "Tari Seudati", "Rencong Aceh"],
+    "kuliner": ["Mie Aceh", "Ayam Tangkap", "Kuah Pliek U"]
+  },
+  {
+    "id": "sumatera-utara",
+    "nama": "Sumatera Utara",
+    "pulau": "Sumatera",
+    "wisata": ["Danau Toba", "Pulau Samosir", "Air Terjun Sipiso-piso"],
+    "budaya": ["Kain Tenun Ulos", "Tari Tor-Tor", "Rumah Bolon Batak"],
+    "kuliner": ["Bika Ambon", "Soto Medan", "Arsik Ikan Mas"]
+  },
+  {
+    "id": "sumatera-barat",
+    "nama": "Sumatera Barat",
+    "pulau": "Sumatera",
+    "wisata": ["Ngarai Sianok", "Jam Gadang Bukittinggi", "Lembah Harau"],
+    "budaya": ["Tari Piring", "Rumah Gadang", "Upacara Tabuik"],
+    "kuliner": ["Rendang Daging", "Sate Padang", "Dendeng Balado"]
+  },
+  {
+    "id": "riau",
+    "nama": "Riau",
+    "pulau": "Sumatera",
+    "wisata": ["Istana Siak Sri Indrapura", "Candi Muara Takus"],
+    "budaya": ["Tari Zapin Melayu", "Tenun Siak"],
+    "kuliner": ["Gulai Patin", "Asam Pedas Baung", "Bolu Kemojo"]
+  },
+  {
+    "id": "jambi",
+    "nama": "Jambi",
+    "pulau": "Sumatera",
+    "wisata": ["Kompleks Candi Muaro Jambi", "Gunung Kerinci"],
+    "budaya": ["Tari Sekapur Sirih", "Batik Jambi"],
+    "kuliner": ["Tempoyak Ikan Patin", "Gulai Tepek Ikan"]
+  },
+  {
+    "id": "sumatera-selatan",
+    "nama": "Sumatera Selatan",
+    "pulau": "Sumatera",
+    "wisata": ["Jembatan Ampera", "Pulau Kemaro Palembang"],
+    "budaya": ["Kain Songket Palembang", "Tari Gending Sriwijaya"],
+    "kuliner": ["Pempek Palembang", "Tekwan", "Pindang Patin"]
+  },
+  {
+    "id": "bengkulu",
+    "nama": "Bengkulu",
+    "pulau": "Sumatera",
+    "wisata": ["Benteng Marlborough", "Danau Dendam Tak Sudah"],
+    "budaya": ["Tari Andun", "Kain Besurek"],
+    "kuliner": ["Pendap", "Gulai Bagar Tat", "Lempuk Durian"]
+  },
+  {
+    "id": "lampung",
+    "nama": "Lampung",
+    "pulau": "Sumatera",
+    "wisata": ["Taman Nasional Way Kambas", "Teluk Kiluan"],
+    "budaya": ["Kain Tapis Lampung", "Tari Sigeh Pengaten"],
+    "kuliner": ["Seruit Ikan Bakar", "Gulai Taboh"]
+  },
+  {
+    "id": "bangka-belitung",
+    "nama": "Bangka Belitung",
+    "pulau": "Sumatera",
+    "wisata": ["Pantai Tanjung Tinggi Belitung", "Pulau Lengkuas"],
+    "budaya": ["Tari Campak", "Upacara Rebo Kasan"],
+    "kuliner": ["Mie Belitung", "Lempah Kuning", "Otak-otak Bangka"]
+  },
+  {
+    "id": "dki-jakarta",
+    "nama": "DKI Jakarta",
+    "pulau": "Jawa",
+    "wisata": ["Monas", "Kota Tua Jakarta", "Taman Mini Indonesia Indah"],
+    "budaya": ["Ondel-ondel", "Tari Topeng Betawi", "Gambang Kromong"],
+    "kuliner": ["Kerak Telor", "Soto Betawi", "Ketoprak Betawi"]
+  },
+  {
+    "id": "jawa-barat",
+    "nama": "Jawa Barat",
+    "pulau": "Jawa",
+    "wisata": ["Gedung Sate Bandung", "Kawah Putih Ciwidey", "Green Canyon Pangandaran"],
+    "budaya": ["Angklung Udjo", "Tari Jaipong", "Wayang Golek"],
+    "kuliner": ["Karedok", "Nasi Timbel", "Batagor & Siomay"]
+  },
+  {
+    "id": "jawa-tengah",
+    "nama": "Jawa Tengah",
+    "pulau": "Jawa",
+    "wisata": ["Candi Borobudur", "Candi Prambanan", "Dataran Tinggi Dieng", "Lawang Sewu"],
+    "budaya": ["Batik Keraton Solo-Pekalongan", "Wayang Kulit", "Gamelan Jawa"],
+    "kuliner": ["Lumpia Semarang", "Tahu Petis", "Nasi Gandul Pati"]
+  },
+  {
+    "id": "di-yogyakarta",
+    "nama": "DI Yogyakarta",
+    "pulau": "Jawa",
+    "wisata": ["Keraton Yogyakarta", "Taman Sari", "Malioboro", "Benteng Vredeburg"],
+    "budaya": ["Tari Bedhaya Semang", "Sekaten", "Kerajinan Perak Kotagede"],
+    "kuliner": ["Gudeg Yu Djum", "Bakpia Pathok", "Sate Klatak"]
+  },
+  {
+    "id": "jawa-timur",
+    "nama": "Jawa Timur",
+    "pulau": "Jawa",
+    "wisata": ["Gunung Bromo", "Kawah Ijen", "Taman Nasional Baluran"],
+    "budaya": ["Reog Ponorogo", "Upacara Yadnya Kasada", "Tari Gandrung Banyuwangi"],
+    "kuliner": ["Rawon Surabaya", "Rujak Cingur", "Bebek Sinjay Madura"]
+  },
+  {
+    "id": "banten",
+    "nama": "Banten",
+    "pulau": "Jawa",
+    "wisata": ["Taman Nasional Ujung Kulon", "Masjid Agung Banten"],
+    "budaya": ["Suku Baduy Luar & Dalam", "Debus Banten"],
+    "kuliner": ["Sate Bandeng", "Rabeg Khas Serang"]
+  },
+  {
+    "id": "bali",
+    "nama": "Bali",
+    "pulau": "Bali & Nusa Tenggara",
+    "wisata": ["Pura Tanah Lot", "Pura Uluwatu", "Tegalalang Rice Terrace", "Pantai Kuta"],
+    "budaya": ["Tari Kecak", "Tari Pendet", "Upacara Ngaben", "Tari Barong"],
+    "kuliner": ["Ayam Betutu", "Sate Lilit", "Nasi Campur Bali"]
+  },
+  {
+    "id": "ntb",
+    "nama": "Nusa Tenggara Barat",
+    "pulau": "Bali & Nusa Tenggara",
+    "wisata": ["Gunung Rinjani", "Gili Trawangan", "Pantai Senggigi"],
+    "budaya": ["Gendang Beleq", "Tenun Sukarara Sasak"],
+    "kuliner": ["Ayam Taliwang", "Plecing Kangkung", "Sate Bulayak"]
+  },
+  {
+    "id": "ntt",
+    "nama": "Nusa Tenggara Timur",
+    "pulau": "Bali & Nusa Tenggara",
+    "wisata": ["Taman Nasional Komodo", "Danau Tiga Warna Kelimutu", "Labuan Bajo"],
+    "budaya": ["Alat Musik Sasando", "Tenun Ikat Sumba", "Tari Caci Manggarai"],
+    "kuliner": ["Se'i Sapi Asap", "Jagung Bose", "Kolo Nasi Bambu"]
+  },
+  {
+    "id": "kalimantan-barat",
+    "nama": "Kalimantan Barat",
+    "pulau": "Kalimantan",
+    "wisata": ["Tugu Khatulistiwa Pontianak", "Danau Sentarum"],
+    "budaya": ["Gawai Dayak", "Tari Monong", "Tenun Ikat Dayak"],
+    "kuliner": ["Bubur Pedas Sambas", "Chai Kue", "Kwetiau Pontianak"]
+  },
+  {
+    "id": "kalimantan-tengah",
+    "nama": "Kalimantan Tengah",
+    "pulau": "Kalimantan",
+    "wisata": ["Taman Nasional Tanjung Puting", "Bukit Tangkiling"],
+    "budaya": ["Upacara Tiwah Dayak Ngaju", "Tari Giring-Giring"],
+    "kuliner": ["Juhu Singkah Umbut Rotan", "Wadi Patin"]
+  },
+  {
+    "id": "kalimantan-selatan",
+    "nama": "Kalimantan Selatan",
+    "pulau": "Kalimantan",
+    "wisata": ["Pasar Terapung Lok Baintan", "Pegunungan Meratus"],
+    "budaya": ["Kain Sasirangan", "Tari Radap Rahayu"],
+    "kuliner": ["Soto Banjar", "Ketupat Kandangan", "Bingka Barandam"]
+  },
+  {
+    "id": "kalimantan-timur",
+    "nama": "Kalimantan Timur",
+    "pulau": "Kalimantan",
+    "wisata": ["Kepulauan Derawan", "Danau Kakaban", "Kawasan Ibu Kota Nusantara (IKN)"],
+    "budaya": ["Tari Kancet Papatai (Tari Perang Dayak)", "Alat Musik Sape"],
+    "kuliner": ["Nasi Bekepor Kutai", "Gangan Asam Patin"]
+  },
+  {
+    "id": "sulawesi-selatan",
+    "nama": "Sulawesi Selatan",
+    "pulau": "Sulawesi",
+    "wisata": ["Tana Toraja", "Benteng Fort Rotterdam", "Pantai Losari Makassar"],
+    "budaya": ["Pakaian Adat Baju Bodo", "Upacara Rambu Solo", "Pembuatan Kapal Pinisi"],
+    "kuliner": ["Coto Makassar", "Konro Bakar", "Pallubasa", "Pisang Epe"]
+  },
+  {
+    "id": "sulawesi-utara",
+    "nama": "Sulawesi Utara",
+    "pulau": "Sulawesi",
+    "wisata": ["Taman Nasional Bunaken", "Danau Linow Tomohon"],
+    "budaya": ["Tari Maengket", "Alat Musik Kolintang Minahasa"],
+    "kuliner": ["Tinutuan (Bubur Manado)", "Cakalang Fufu", "Ayam Rica-rica"]
+  },
+  {
+    "id": "maluku",
+    "nama": "Maluku",
+    "pulau": "Papua & Maluku",
+    "wisata": ["Banda Neira", "Benteng Belgica", "Pantai Ora Seram"],
+    "budaya": ["Tari Cakalele", "Alat Musik Tifa", "Upacara Pela Gandong"],
+    "kuliner": ["Ikan Kuah Pala Banda", "Gohu Ikan Tuna", "Sagu Manta"]
+  },
+  {
+    "id": "papua-barat-daya",
+    "nama": "Papua Barat Daya",
+    "pulau": "Papua & Maluku",
+    "wisata": ["Kepulauan Raja Ampat", "Teluk Mayalibit"],
+    "budaya": ["Tari Perang Papua", "Seni Ukir Asmat"],
+    "kuliner": ["Papeda Ikan Kuah Kuning", "Keladi Tumbuk"]
+  },
+  {
+    "id": "papua",
+    "nama": "Papua",
+    "pulau": "Papua & Maluku",
+    "wisata": ["Danau Sentani Jayapura", "Lembah Baliem Wamena"],
+    "budaya": ["Tas Rajut Noken", "Festival Lembah Baliem", "Bakar Batu"],
+    "kuliner": ["Kue Lontar", "Ikan Bungkus Daun Talas"]
+  }
+]
