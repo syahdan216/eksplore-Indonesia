@@ -181,16 +181,16 @@
   font-family: var(--font-heading);
   font-size: 3.5rem;
   font-weight: 700;
-  color: var(--warm-cream);
+  color: #ffffff;
   margin: 0 0 var(--space-lg);
   line-height: 1.15;
-  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.3);
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
 }
 
 .subtitle {
   font-family: var(--font-body);
   font-size: 1.2rem;
-  color: rgba(247, 244, 235, 0.9);
+  color: rgba(255, 255, 255, 0.9);
   margin: 0 0 var(--space-2xl);
   line-height: 1.7;
   max-width: 600px;
@@ -220,28 +220,30 @@
 
 .btnPrimary {
   background: var(--mustard-gold);
-  color: var(--dark-chocolate);
+  color: #1a120c;
   border: 2px solid var(--mustard-gold);
 }
 
 .btnPrimary:hover {
   background: var(--mustard-gold-dark);
   border-color: var(--mustard-gold-dark);
+  color: #ffffff;
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(229, 169, 59, 0.35);
 }
 
 .btnSecondary {
   background: transparent;
-  color: var(--warm-cream);
-  border: 2px solid var(--warm-cream);
+  color: #ffffff;
+  border: 2px solid rgba(255, 255, 255, 0.85);
 }
 
 .btnSecondary:hover {
-  background: var(--warm-cream);
-  color: var(--dark-chocolate);
+  background: #ffffff;
+  color: #1a120c;
+  border-color: #ffffff;
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(247, 244, 235, 0.2);
+  box-shadow: 0 6px 20px rgba(255, 255, 255, 0.25);
 }
 
 /* ===== Scroll indicator ===== */
